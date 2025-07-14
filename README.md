@@ -29,19 +29,19 @@ Follow the steps below to set up and run the project locally.
    ```bash
    npm run dev
 
-# Project Structure
-  backend-starter-template/
-  ├── src/
-  │   ├── controllers/
-  │   ├── db/
-  │   ├── middlewares/
-  │   ├── utils/
-  │   ├── routes/
-  │   ├── models/
-  │   └── app.js
-  │   └── constants.js
-  │   └── index.js
-  ├── .env
-  ├── .gitignore
-  ├── package.json
-  └── README.md
+## 📁 Project Structure
+backend-starter-template/
+├── src/
+│ ├── controllers/
+│ ├── db/
+│ ├── middlewares/
+│ ├── utils/
+│ ├── routes/
+│ ├── models/
+│ └── app.js
+│ └── constants.js
+│ └── index.js
+├── .env
+├── .gitignore
+├── package.json
+└── README.md
