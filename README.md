@@ -17,13 +17,16 @@ Follow the steps below to set up and run the project locally.
    ```bash
    git clone https://github.com/prakharbhattreal/backend-starter-template.git
 
-2. Navigate into the project directory
+2. **Navigate into the project directory**
+   ```bash
    cd backend-starter-template
 
-3. Install dependencies
+3. **Install dependencies**
+   ```bash
    npm install
 
-4. Run the development server
+4. **Run the development server**
+   ```bash
    npm run dev
 
 # Project Structure
