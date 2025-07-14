@@ -30,18 +30,18 @@ Follow the steps below to set up and run the project locally.
    npm run dev
 
 ## 📁 Project Structure
-backend-starter-template/
-├── src/
-│ ├── controllers/
-│ ├── db/
-│ ├── middlewares/
-│ ├── utils/
-│ ├── routes/
-│ ├── models/
-│ └── app.js
-│ └── constants.js
-│ └── index.js
-├── .env
-├── .gitignore
-├── package.json
-└── README.md
+backend-starter-template/ <br>
+├── src/ <br>
+│ ├── controllers/ <br>
+│ ├── db/ <br>
+│ ├── middlewares/ <br>
+│ ├── utils/ <br>
+│ ├── routes/ <br>
+│ ├── models/ <br>
+│ └── app.js <br>
+│ └── constants.js <br>
+│ └── index.js <br>
+├── .env <br>
+├── .gitignore <br>
+├── package.json <br>
+└── README.md <br>
